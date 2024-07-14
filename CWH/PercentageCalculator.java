@@ -1,4 +1,4 @@
-package Java_DSA_Interview_Preparation_Course;
+package Java_DSA_Interview_Preparation_Course.CWH;
 import java.util.Scanner;
 //Lecture 6(Exercise 1)
 public class PercentageCalculator {
