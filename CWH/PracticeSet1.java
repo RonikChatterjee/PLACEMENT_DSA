@@ -1,5 +1,5 @@
 package Java_DSA_Interview_Preparation_Course.CWH;
-//import java.util.Scanner;
+// import java.util.Scanner;
 
 public class PracticeSet1 {
     // Question 1: Write a program to sum three numbers in java.
