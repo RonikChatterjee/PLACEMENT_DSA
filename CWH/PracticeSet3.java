@@ -1,9 +1,9 @@
 package Java_DSA_Interview_Preparation_Course.CWH;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class PracticeSet3 {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        // Scanner scan = new Scanner(System.in);
         // Question 1: Write a Java program to convert a string to lowercase.
         // System.out.print("Enter a string to convert it to lowercase: ");
         // String str = scan.nextLine();
