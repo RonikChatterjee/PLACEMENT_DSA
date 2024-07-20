@@ -1,7 +1,7 @@
 package Java_DSA_Interview_Preparation_Course.CWH;
 // import java.util.Scanner;
 
-public class PracticeSet {
+public class PracticeSet4 {
     public static void main(String[] args) {
         // Scanner scan = new Scanner(System.in);
         // Question 1: What will be the output of this program
