@@ -1,7 +1,7 @@
 package Java_DSA_Interview_Preparation_Course.CWH;
 import java.util.Scanner;
 //Lecture 6(Exercise 1)
-public class PercentageCalculator {
+public class Exercise1PercentageCalculator {
     public static void main(String[] args) {
         System.out.println("Percentage Calculator");
         Scanner sc = new Scanner(System.in);
